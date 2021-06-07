@@ -1,0 +1,203 @@
+ {
+
+    "books": [
+        {
+            "id": 0,
+            "name": "Джейн Эйр",
+            "author": "Шарлотта Бронте",
+            "price": 560,
+            "types": [ 0 ], 
+            "langs": [ 0, 1 ],
+            "category": 0,
+            "imageUrl": "https://cdn1.ozone.ru/multimedia/c650/1013996134.jpg"
+        },
+        {
+            "id": 1,
+            "name": "Поющие в терновнике",
+            "author": "Колин Маккалоу",
+            "price": 610,
+            "types": [ 0, 1 ], 
+            "langs": [ 0 ],
+            "category": 0,
+            "imageUrl": "https://cdn1.ozone.ru/s3/multimedia-d/6011805385.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Анна Каренина",
+            "author": "Лев Толстой",
+            "price": 720,
+            "types": [ 0, 1 ], 
+            "langs": [ 0 ],
+            "category": 0,
+            "imageUrl": "https://img4.labirint.ru/rc/aa6666a74dbbfd1f9f7364ec2861eaf6/220x340/books23/222736/cover.jpg?1563565166"
+        },
+        {
+            "id": 3,
+            "name": "Обломов",
+            "author": "Иван Гончаров",
+            "price": 550,
+            "types": [ 0, 1 ], 
+            "langs": [ 0 ],
+            "category": 0,
+            "imageUrl": "https://img4.labirint.ru/rc/55df0ccbcb206b69b96d3b5d65802ca2/220x340/books1/7600/cover.jpg?1280394613"
+        },
+        {
+            "id": 4,
+            "name": "Дубровский",
+            "author": "Александр Пушкин",
+            "price": 490,
+            "types": [ 0 ], 
+            "langs": [ 0 ],
+            "category": 0,
+            "imageUrl": "https://img3.labirint.ru/rc/0d1de78d764510b8a698d57ede409096/220x340/books62/613177/cover.jpg?1508318792"
+        },
+        {
+            "id": 5,
+            "name": "Рассказы о Шерлоке Холмсе",
+            "author": "Артур Конан Дойл",
+            "price": 610,
+            "genre": 2,
+            "types": [ 0, 1 ], 
+            "langs": [ 0, 1 ], 
+            "category": 1,
+            "imageUrl": "https://data.fantlab.ru/images/editions/big/236872"
+        },
+
+        {
+            "id": 6,
+            "name": "Лунный камень",
+            "author": "Уилки Коллинз",
+            "price": 540,
+            "genre": 2,
+            "types": [ 1 ], 
+            "langs": [ 0, 1 ],
+            "category": 1,
+            "imageUrl": "https://cdn.eksmo.ru/v2/ITD000000000555644/COVER/cover1__w600.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Тайна отца Брауна",
+            "author": "Гилберт Кийт Честертон",
+            "price": 540,
+            "genre": 2,
+            "types": [ 1 ], 
+            "langs": [ 0, 1 ],
+            "category": 1,
+            "imageUrl": "https://s1.livelib.ru/boocover/1000450885/200/ed87/boocover.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Граф Монте-Кристо",
+            "author": "Александр Дюма",
+            "price": 540,
+            "types": [ 1 ], 
+            "langs": [ 0, 1 ],
+            "category": 2,
+            "imageUrl": "https://img4.labirint.ru/rc/5a19c242ba01805c5fff7ee6fc1233d1/220x340/books36/351368/cover.jpg?1563689614"
+        },
+        {
+            "id": 9,
+            "name": "Убить пересмешника",
+            "author": "Харпер Ли",
+            "price": 690,
+            "types": [ 1 ], 
+            "langs": [ 0, 1 ],
+            "category": 2,
+            "imageUrl": "https://s1.livelib.ru/boocover/1000405580/200/40ea/boocover.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Три товарища",
+            "author": "Эрих Мария Ремарк",
+            "price": 730,
+            "types": [ 1 ], 
+            "langs": [ 0, 1 ],
+            "category": 2,
+            "imageUrl": "https://i4.mybook.io/p/512x852/book_covers/01/92/01920ffc-ebdc-4a8e-92d4-ccb834421368.jpe?v2"
+        }, 
+        {
+            "id": 11,
+            "name": "Гранатовый браслет",
+            "author": "Александр Куприн",
+            "price": 750,
+            "types": [ 1 ], 
+            "langs": [ 0, 1 ],
+            "category": 2,
+            "imageUrl": "https://s1.livelib.ru/boocover/1000482423/o/3d4e/Aleksandr_Kuprin__Granatovyj_braslet_sbornik.jpeg"
+        }, 
+        {
+            "id": 12,
+            "name": "Петербургские повести",
+            "author": "Николай Гоголь ",
+            "price": 630,
+            "types": [ 1 ], 
+            "langs": [ 0, 1 ],
+            "category": 3,
+            "imageUrl": "https://img3.labirint.ru/rc/e537c84986b7c937bcf3a6e98e10d87f/220x340/books61/603809/cover.jpg?1564035898"
+        }, 
+        {
+            "id": 13,
+            "name": "Записки охотника. Рассказы и повести",
+            "author": "Иван Тургенев",
+            "price": 590,
+            "types": [ 1 ], 
+            "langs": [ 0, 1 ],
+            "category": 3,
+            "imageUrl": "https://img3.labirint.ru/rc/5a9ea9a838299c3687ca1fc2487ca0b1/220x340/books51/507861/cover.jpg?1563862011"
+        }, 
+        {
+            "id": 14,
+            "name": "Повести Белкина",
+            "author": "Александр Пушкин",
+            "price": 710,
+            "types": [ 1 ], 
+            "langs": [ 0, 1 ],
+            "category": 3,
+            "imageUrl": "https://img4.labirint.ru/rc/ef6194a152d3b5cb12692ec54ea1af14/220x340/books30/295400/cover.jpg?1563622104"
+        }, 
+        {
+            "id": 15,
+            "name": "Бедная Лиза",
+            "author": "Николай Карамзин",
+            "price": 590,
+            "types": [ 1 ], 
+            "langs": [ 0, 1 ],
+            "category": 3,
+            "imageUrl": "https://s1.livelib.ru/boocover/1000308488/200/b685/boocover.jpg"
+        },
+        {
+            "id": 16,
+            "name": "Евгений Онегин",
+            "author": "Александр Пушкин",
+            "price": 710,
+            "types": [ 1 ], 
+            "langs": [ 0 ],
+            "category": 4,
+            "imageUrl": "https://cdn.book24.ru/v2/ASE000000000830367/COVER/cover3d1__w337.jpg"
+        },
+        {
+            "id": 17,
+            "name": "Руслан и Людмила",
+            "author": "Александр Пушкин",
+            "price": 630,
+            "types": [ 1 ], 
+            "langs": [ 0 ],
+            "category": 4,
+            "imageUrl": "https://cdn.book24.ru/v2/ASE000000000829221/COVER/cover3d1__w674.jpg"
+        },
+        {
+            "id": 18,
+            "name": "Анна Снегина",
+            "author": "Сергей Есенин",
+            "price": 610,
+            "types": [ 1 ], 
+            "langs": [ 0 ],
+            "category": 4,
+            "imageUrl": "https://img3.labirint.ru/rc/7a131a49d9c4cf4b79b2d6f7ac631f86/220x340/books66/655699/cover.png?1575372527"
+        }
+
+    ]
+
+ }
+
+    
